@@ -1,0 +1,10 @@
+
+build/
+CMakeFiles/
+.vscode/
+*.dll
+*.exe
+configwin.toml
+cmake_install.cmake
+CMakeCache.txt
+Makefile
